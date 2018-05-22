@@ -22,6 +22,8 @@ By Ian Nicholson
 
 ## Red vs. Blue
 
+[Red Team vs. Blue Team](https://github.com/newcoding-bootcamp/white-hat-hacking/blob/master/red%20vs%20blue.jpg)
+
 ### Crowd-Sourcing for Bug Bounties
 
 1. [Bugcrowd](https://www.bugcrowd.com/)
