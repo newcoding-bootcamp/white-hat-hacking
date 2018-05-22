@@ -8,9 +8,9 @@ By Ian Nicholson
 
 ![gh](https://github.com/newcoding-bootcamp/white-hat-hacking/blob/master/whitegrayblackhat.jpg)
 
-1. White
+1. White - computer security and penetration testing
 2. Grey
-3. Black
+3. Black - malicious hacking
 
 
 ## Careers in Ethical Hacking
@@ -20,11 +20,14 @@ By Ian Nicholson
 
 ![Bug Bounty payouts](https://github.com/newcoding-bootcamp/white-hat-hacking/blob/master/bug-bounty-rewards-by-highest-ever-paid-or-willing-to-pay-company_chartbuilder-1.png)
 
+## Red vs. Blue
+
 ### Crowd-Sourcing for Bug Bounties
 
 1. [Bugcrowd](https://www.bugcrowd.com/)
 
 ## Practice Ethical Hacking
 
+1. [Santa Barbara OWASP](https://www.meetup.com/Santa-Barbara-OWASP-Chapter/)
 1. [HackThisSite.org](https://www.hackthissite.org/)
 1. [Natas](http://overthewire.org/wargames/natas/)
