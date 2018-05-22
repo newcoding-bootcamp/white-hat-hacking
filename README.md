@@ -2,6 +2,8 @@
 
 By Ian Nicholson
 
+![wannacrypt](https://github.com/newcoding-bootcamp/white-hat-hacking/blob/master/wannacrypt.png)
+
 ## Types of Hackers
 
 ![gh](https://github.com/newcoding-bootcamp/white-hat-hacking/blob/master/whitegrayblackhat.jpg)
