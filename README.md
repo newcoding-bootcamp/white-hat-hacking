@@ -8,9 +8,9 @@ By Ian Nicholson
 
 ![gh](https://github.com/newcoding-bootcamp/white-hat-hacking/blob/master/whitegrayblackhat.jpg)
 
-1. White - computer security and penetration testing
-2. Grey
-3. Black - malicious hacking
+1. White - Computer security and penetration testing. Exploit with permission
+2. Grey - Sometimes breaks law, but without malicious intent
+3. Black - Malicious hacking. Exploitation without disclosure
 
 
 ## Careers in Ethical Hacking
@@ -22,7 +22,7 @@ By Ian Nicholson
 
 ## Red vs. Blue
 
-[Red Team vs. Blue Team](https://github.com/newcoding-bootcamp/white-hat-hacking/blob/master/red%20vs%20blue.jpg)
+![Red Team vs. Blue Team](https://github.com/newcoding-bootcamp/white-hat-hacking/blob/master/red%20vs%20blue.jpg)
 
 ### Crowd-Sourcing for Bug Bounties
 
